@@ -16,13 +16,13 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94755603354",
-  SUDO_NUMBERS : "947556603354,94702929244",
+  OWNER_NUMBER: "94702929244",
+  SUDO_NUMBERS : "94702929244,94702929244",
   OWNER_NAME: "『 𝙽𝙰𝚂𝙴𝙴𝙼 』",
-  BOT_NAME : "𝙼 𝙰 𝚁 𝙻 𝙴 𝚢",
-  ZUSYCO_FILE : "𝘔 𝘈 𝘙 𝘓 𝘌 𝘠- 𝘉𝘖𝘛",
+  BOT_NAME : "𝙺 𝙸 𝙽 𝙶",
+  ZUSYCO_FILE : "𝗞 𝗜 𝗡 𝗚 - 𝘉𝘖𝘛",
   LOGOS: {
-    ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
+    ALIVE: 'https://telegra.ph/file/33cd299ee85d4de47c8b4.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
@@ -34,11 +34,11 @@ module.exports = {
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
-  WORK_MODE_MESSAGE_SEND : false,
+  WORK_MODE_MESSAGE_SEND : true,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
   STICKER_PACK : '[ ZUSYCO ]',
   BAD_WORDS : 'fuck,pussy',
-  ANTI_BAD : false,
+  ANTI_BAD : true,
   ANTI_LINKS : 'chat.whatsapp.com',
   ANTI_LINK : true,
   ANTI_LINK_KICK : true,
@@ -52,10 +52,10 @@ module.exports = {
      ONLY_COMMANDS : false,
      STATUS : true,
   },
-  BOT_OFFLINE : false,
+  BOT_OFFLINE : true,
   INBOX_BLOCK : false,
   AUTO_REACT : true,
-  OWNER_REACT : '🤵‍♂️',
+  OWNER_REACT : '🕊️',
   AUTO_BGM : false,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
